@@ -1,7 +1,4 @@
 /*
-* SPOILER ALERT! 
-* WORDS FOR THE GAME ARE IN THIS FILE ;)
-* ©2014 Nate Wiley -- MIT License
 Sounds from http://soundfxnow.com, and http://www.soundjay.com
 Fonts from Google Fonts
 */
