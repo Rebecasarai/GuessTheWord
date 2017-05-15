@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="game.js"></script>
+<link rel="stylesheet" type="text/css" href="index.css">
+<link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css">
+<script
+  src="https://code.jquery.com/jquery-3.2.1.js"
+  integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+  crossorigin="anonymous"></script>
+
+  <script
+  src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"
+  integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU="
+  crossorigin="anonymous"></script>
+  <title></title>
+</head>
+<body>
+<div class="hangman">
+  <div class="guess"></div>
+  <form class="guessForm">
+  <input type="text" class="guessLetter" maxlength="1"  placeholder="Enter a letter . . . &#x23ce;"/> <button type="submit" class="guessButton">Adivina</button>
+  </form>  
+  <p>Pista: Las palabras están relacionadas a la Prevención de Riesgos Laborales. <br/><a href="https://twitter.com/codelovr">Sigueme en twitter</a></p>
+  <div class="wrong">
+    <div class="wrongLetters"></div>
+  </div>
+  <div class="message">
+    <h1 class="title"></h1>
+    <p class="text"></p>
+    <button class="restart button">¿Jugar de nuevo?</button>
+    
+  </div>
+</div>
+
+
+</body>
+</html>
