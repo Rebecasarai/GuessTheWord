@@ -247,7 +247,7 @@ Fonts from Google Fonts
   
   };
 
-  var wordList = ["prevencion", "riesgos", "epis", "laboral", "ergonomia", "vista", "postura", "garantia", "responsabilidad", "administrativa", "civil", "penal", "inspeccion", "salud", "mancomunado", "planificacion", "peligro", "seguridad", "prestaciones", "fuego", "señales", "emergencia", "proteccion", "colectiva", "individual", "adaptar", "informe", "insht", "probabilidad", "SS", "ministerio de empleo", "accidente blanco", "salario", "indemnizacion"];
+  var wordList = ["prevencion", "riesgos", "epis", "laboral", "ergonomia", "vista", "postura", "garantia", "responsabilidad", "administrativa", "civil", "penal", "inspeccion", "salud", "mancomunado", "planificacion", "peligro", "seguridad", "prestaciones", "fuego", "señales", "emergencia", "proteccion", "colectiva", "individual", "adaptar", "informe", "insht", "probabilidad", "SS", "ministerio de empleo", "accidente", "riesgo", "blanco", "salario", "indemnizacion"];
 
   Hangman.init(wordList);
   
